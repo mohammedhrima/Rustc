@@ -1,4 +1,3 @@
-# Rust specific ignores
 **/target/
 **/Cargo.lock
 **/.vscode/
