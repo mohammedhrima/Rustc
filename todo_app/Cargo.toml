@@ -1,7 +1,4 @@
 [package]
-name = "todo_app"
-version = "0.1.0"
-edition = "2021"
+name = "todo-list"
 
 [dependencies]
-ncurses = "6.0.0"
